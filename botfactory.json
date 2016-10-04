@@ -1,0 +1,12 @@
+{
+    "templates": [
+		{
+		    "uuid": "divvy.unicloud.reaper",
+		    "name": "Unicloud reaper",
+		    "category": "Best Practices",
+		    "description": "KILL!!!",
+		    "version": "0.1.0",
+		    "github_url": "https://raw.githubusercontent.com/alexgorin/dc_bots/master/templates/divvy_unicloud_reaper.json"
+		}
+	]
+}
