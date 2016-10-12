@@ -25,9 +25,14 @@
             "instance"
         ],
         "schedule": {
-            "_type": "Daily",
-            "time_of_day": {"_type": "TimeOfDay", "second": 0, "minute": 0, "hour": 18},
-            "exclude_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Saturday", "Sunday"]
+            "_type": "Weekly",
+            "day_of_week": 5,
+            "time_of_day": {
+                "_type": "TimeOfDay",
+                "second": 0,
+                "minute": 0,
+                "hour": 18
+            }
         }
     }
 }
