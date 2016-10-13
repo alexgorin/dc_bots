@@ -12,10 +12,6 @@
             }
         ],
         "filters": [
-            {
-                "name": "divvy.filter.unicloud.belongs_to_cluster",
-                "negate": false
-            }
         ],
         "groups": [],
         "hookpoints": [
